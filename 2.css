@@ -1,0 +1,41 @@
+body{
+    background-color: aqua;
+}
+.hallegado {
+    color: blue;
+    font-family: cursive;
+    text-align: center;
+    padding: 80px;
+    font-weight: 900;
+} 
+.carta {
+    align-items: center;
+    display: flex;
+    padding: 71px;
+    justify-content: center;
+    
+}
+.btnn {
+    font-size: small;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: rgb(219, 7, 7);
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btnn:hover {
+    background-color: #000000;
+}
+.lve{
+    color: blue;
+    font-family: cursive;
+    text-align: center;
+    padding: 80px;
+    font-weight: 900;
+}

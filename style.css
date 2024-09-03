@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(13, 95, 172);
+}
+ footer {
+    align-items: end;
+
+}
+.oyemira{
+    text-align: center;
+    padding: 80px;
+    color: rgb(14, 255, 26);
+    font-family: cursive;
+}
+/* Estilos para la sección .oso */
+.oso {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 300px; /* Limita el ancho máximo de la sección */
+    margin: 20px auto; /* Centra la sección en la página */
+    border-radius: 30px;
+    
+}
+/* Estilos básicos para el botón */
+.btn1 {
+    font-size: small;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: rgb(219, 7, 7);
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn1:hover {
+    background-color: #000000;
+}

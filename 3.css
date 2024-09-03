@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+}
+section{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+
+.tamo{
+    align-items: center;
+    display: flex;
+    padding: 71px;
+    justify-content: center;
+}
